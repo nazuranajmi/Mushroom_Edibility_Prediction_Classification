@@ -20,11 +20,7 @@ This dataset includes descriptions of mushrooms in terms of their physical chara
   - Support Vector Machine
   - k-Nearest Neighbors
   - Logistic Regression
-  - Neural Networks
+  - XGBoost
 - **Model Evaluation**: Assess the performance of the models using metrics such as accuracy, precision, recall, F1-score, and confusion matrix.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/mushroom-edibility-prediction.git
